@@ -65,7 +65,7 @@ Currently open to **full-time Software Engineer / Backend Engineer / Full Stack 
 - Designed an **agentic AI pipeline** using Gemini + MCP for financial workflow automation with human fallback
 - Submitted to **Gemini 3 Hackathon 2026** — recognized for innovative use of agentic AI in financial workflows
   
-### 🏢 Junior Java Backend Developer — Infoville (Jan 2020 – Jan 2022)
+### 🏢 Junior Java Backend Developer — Infoville (Feb 2020 – Feb 2022)
 - Developed Java/J2EE backend services and RESTful APIs using Spring Boot + Hibernate ORM with JWT authentication across PostgreSQL and MySQL — improved query execution performance by 25% via stored procedures and indexing strategies
 - Maintained 80%+ code coverage with JUnit unit and integration tests via Jenkins/GitHub Actions CI/CD; deployed fully containerized Java services using Docker with active participation in design reviews and backlog grooming
 
