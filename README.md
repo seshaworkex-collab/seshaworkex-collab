@@ -64,6 +64,12 @@ Currently open to **full-time Software Engineer / Backend Engineer / Full Stack 
 - Built Python/FastAPI endpoints on **GCP Cloud Run**, cutting response times **20%** with caching + connection pooling
 - Designed an **agentic AI pipeline** using Gemini + MCP for financial workflow automation with human fallback
 - Submitted to **Gemini 3 Hackathon 2026** — recognized for innovative use of agentic AI in financial workflows
+  
+### 🏢 Junior Java Backend Developer — Infoville (Jan 2020 – Jan 2022)
+- Developed Java/J2EE backend services and RESTful APIs using Spring Boot + Hibernate ORM with JWT authentication across PostgreSQL and MySQL — improved query execution performance by 25% via stored procedures and indexing strategies
+- Built scalable Spring Boot microservices with JPA integration implementing structured error handling and input validation; delivered production-ready features through Agile sprints, code reviews, and pair programming
+- Implemented asynchronous RabbitMQ messaging workflows decoupling backend services — improving system resilience, fault tolerance, and throughput; maintained technical documentation covering API specs and operational runbooks
+- Maintained 80%+ code coverage with JUnit unit and integration tests via Jenkins/GitHub Actions CI/CD; deployed fully containerized Java services using Docker with active participation in design reviews and backlog grooming
 
 ---
 
